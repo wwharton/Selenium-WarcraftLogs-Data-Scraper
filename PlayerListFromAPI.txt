@@ -1,0 +1,5060 @@
+Densole
+median perf avg
+59.48264514542547
+
+Buttsnorkle
+median perf avg
+42.98864670902476
+
+Gaillarde
+median perf avg
+45.391008491627474
+
+Lunarea
+median perf avg
+43.532466164861994
+
+Ronin
+median perf avg
+55.037838310910566
+
+Tristain
+median perf avg
+38.242003224079966
+
+Rayvanb
+median perf avg
+36.11509660674591
+
+Regoric
+median perf avg
+45.76458386279533
+
+Zazou
+median perf avg
+47.19083836907343
+
+Narom
+median perf avg
+47.16575473701979
+
+Dethroc
+median perf avg
+48.79225446492346
+
+Bearflex
+median perf avg
+58.031745541462264
+
+Karayan
+median perf avg
+44.17933391819558
+
+Praxxar
+median perf avg
+39.591410812056104
+
+Drjekyll
+median perf avg
+56.73764126597355
+
+Spiritbaer
+median perf avg
+37.831418223480775
+
+Marsh
+median perf avg
+56.71919557350975
+
+Nimrax
+median perf avg
+55.09430403797667
+
+Carebear
+median perf avg
+38.91236052764123
+
+Evistianna
+median perf avg
+50.95145140621268
+
+Kpreme
+median perf avg
+58.88609565157663
+
+Silvermasque
+median perf avg
+39.48291438039726
+
+Recurse
+median perf avg
+53.185467034387656
+
+Saylor
+median perf avg
+56.653878532999535
+
+Lenores
+median perf avg
+44.08369344880766
+
+Ayx
+median perf avg
+63.42968094477213
+
+Harpa
+median perf avg
+62.86762793596607
+
+Malishida
+median perf avg
+38.237230533679494
+
+Shadonine
+median perf avg
+37.532140830800664
+
+Skiddoosh
+median perf avg
+59.44784232706409
+
+Snowjobz
+median perf avg
+37.44094726985502
+
+Geminine
+median perf avg
+55.50576588097396
+
+Kumachan
+median perf avg
+45.38027886515643
+
+Lokane
+median perf avg
+48.45691778528641
+
+Quickills
+median perf avg
+35.219989866832954
+
+Dragonflare
+median perf avg
+64.95178943932109
+
+Swiftsteel
+median perf avg
+43.749536584065694
+
+Berzerkules
+median perf avg
+41.48153976157775
+
+Vaylince
+median perf avg
+35.542472606366616
+
+Allandrick
+median perf avg
+58.53889592166135
+
+Gd
+median perf avg
+59.7654923661579
+
+Bendoverand
+median perf avg
+37.1201464358366
+
+Sageclaw
+median perf avg
+47.89762934732071
+
+Wollfee
+median perf avg
+39.37233689279789
+
+Baraz
+median perf avg
+57.99205150299984
+
+Hughbris
+median perf avg
+58.12636679486329
+
+Gano
+median perf avg
+59.26381063990479
+
+Fuhrerheff
+median perf avg
+41.38240737625727
+
+Grimlilong
+median perf avg
+45.562332037566605
+
+Tankforrent
+median perf avg
+42.93030547535949
+
+Cyberrand
+median perf avg
+39.938860726676985
+
+Cono
+median perf avg
+37.71427339086839
+
+Donnyberger
+median perf avg
+52.40495481362052
+
+Deicide
+median perf avg
+47.191901863815595
+
+Knowchie
+median perf avg
+58.40000091079206
+
+Loek
+median perf avg
+59.31403776774678
+
+Hylina
+median perf avg
+41.24289358172486
+
+Dynomache
+median perf avg
+57.670993775941106
+
+Stealthish
+median perf avg
+51.13184778469384
+
+Slenderize
+median perf avg
+40.31861888376162
+
+Shutupmeg
+median perf avg
+56.25148886354149
+
+Lunarlumps
+median perf avg
+54.71552362580734
+
+Zakuta
+median perf avg
+41.07361507513017
+
+Stoneybolony
+median perf avg
+62.86586562593548
+
+Leofa
+median perf avg
+53.35130446898525
+
+Flintin
+median perf avg
+48.21089430512779
+
+Alazam
+median perf avg
+64.08672535002125
+
+Romans
+median perf avg
+55.802396956448575
+
+T�lsimir
+median perf avg
+62.98373993912994
+
+Zimbarchi
+median perf avg
+62.82524231867503
+
+Mavsteele
+median perf avg
+64.55783231170716
+
+�roh
+median perf avg
+35.80237788251902
+
+Drizzorf
+median perf avg
+51.67141855902271
+
+Bbm
+median perf avg
+47.07905448020477
+
+Emo
+median perf avg
+61.88512595610148
+
+Ravelyn
+median perf avg
+50.06896350053399
+
+Melchi
+median perf avg
+61.91325649264318
+
+Karmaknight
+median perf avg
+39.838477844337895
+
+Goosse
+median perf avg
+46.06265592728107
+
+Drawfirst
+median perf avg
+48.68693697785545
+
+Kitteepurree
+median perf avg
+55.80169826131398
+
+Azryel
+median perf avg
+39.80084678113119
+
+Syzslack
+median perf avg
+53.44987814480908
+
+Mateen
+median perf avg
+38.60697915929901
+
+Whiteknuckle
+median perf avg
+41.54829444838756
+
+Skrimshaw
+median perf avg
+61.91276135084514
+
+Tengu
+median perf avg
+49.86814624978906
+
+Tainx
+median perf avg
+54.441660730516396
+
+Mydotsjuicy
+median perf avg
+41.180098278184644
+
+Blaqangus
+median perf avg
+44.44936149115843
+
+Kruzzen
+median perf avg
+62.39894508983586
+
+Copse
+median perf avg
+44.212175016271004
+
+Anso
+median perf avg
+60.36953629840238
+
+Demanufactur
+median perf avg
+46.47261427821854
+
+Roidmachine
+median perf avg
+57.22607047529882
+
+Jinxseen
+median perf avg
+42.38995574914807
+
+Whisperlock
+median perf avg
+62.139006227361534
+
+Rigour
+median perf avg
+60.111696031010226
+
+Bunchyunit
+median perf avg
+58.12526092222385
+
+Zoso
+median perf avg
+45.06212617223328
+
+Ferosh
+median perf avg
+64.91415529559734
+
+Tormentedone
+median perf avg
+38.23888621916247
+
+Lohkaii
+median perf avg
+63.73625598059147
+
+Mcwsy
+median perf avg
+48.51658322517998
+
+Rigoth
+median perf avg
+40.55071125496242
+
+Buliwyn
+median perf avg
+59.02673444691331
+
+Lakota
+median perf avg
+45.39424333738235
+
+Dakmel
+median perf avg
+38.07657643700976
+
+Eledra
+median perf avg
+40.960146714943136
+
+Faramoore
+median perf avg
+39.33197996777101
+
+Bobsv
+median perf avg
+63.06440127587719
+
+Sushiitanks
+median perf avg
+57.360279004946925
+
+Finn
+median perf avg
+44.75875101478409
+
+Sporadicus
+median perf avg
+39.448542233358815
+
+Scarake
+median perf avg
+52.107561119812146
+
+Nekrophilia
+median perf avg
+42.66250024769507
+
+Saldaraz
+median perf avg
+43.329794604929326
+
+Trudark
+median perf avg
+48.71592851575615
+
+Kreamsicle
+median perf avg
+49.18593956046848
+
+Stupendusman
+median perf avg
+44.49158778952842
+
+Lorasilis
+median perf avg
+61.01448297617703
+
+Nuitaree
+median perf avg
+56.499651595516916
+
+Naturejim
+median perf avg
+36.05115424848659
+
+Benzos
+median perf avg
+44.72031913665294
+
+Thisisdeeps
+median perf avg
+54.19384748620563
+
+Gleipnir
+median perf avg
+55.622958552351676
+
+Santille
+median perf avg
+64.62320082613815
+
+Nants
+median perf avg
+43.237880338477424
+
+Azimuthh
+median perf avg
+38.94581813968561
+
+Zargaz
+median perf avg
+62.553119929534724
+
+Firerocket
+median perf avg
+53.70044783244912
+
+Bearylicous
+median perf avg
+52.2251978397455
+
+Hellika
+median perf avg
+43.138894426588436
+
+Anewhope
+median perf avg
+45.930340233825945
+
+Sinusoidal
+median perf avg
+54.52289494856553
+
+Stalatard
+median perf avg
+37.09669244898602
+
+Minicoop
+median perf avg
+61.078111324085384
+
+Kerethor
+median perf avg
+57.26946152670347
+
+Muttbonkey
+median perf avg
+58.224244846639046
+
+Lollipopstar
+median perf avg
+53.807613290852395
+
+Kh�n
+median perf avg
+56.824096506556955
+
+Sortaokay
+median perf avg
+48.8908134712241
+
+Tyfoidmary
+median perf avg
+61.010390759560245
+
+Pigmoose
+median perf avg
+36.84628685830288
+
+Mortalfear
+median perf avg
+64.87560770828607
+
+Omniscient
+median perf avg
+49.091166111085116
+
+Morwar
+median perf avg
+63.77153142552108
+
+Valkyrieo
+median perf avg
+51.28713450062774
+
+Moos�
+median perf avg
+63.032838168136365
+
+Lowtide
+median perf avg
+40.347798899249334
+
+Brasstacks
+median perf avg
+54.425506681155035
+
+Corlath
+median perf avg
+42.81658418850153
+
+Bamnaii
+median perf avg
+54.64899103958331
+
+Llamasaurus
+median perf avg
+47.79717076048455
+
+Rottenchunks
+median perf avg
+50.86884739194608
+
+Daniwild
+median perf avg
+47.2248536463908
+
+Sneakyduck
+median perf avg
+57.42587432304676
+
+Explorer
+median perf avg
+42.25772273902006
+
+Lululan
+median perf avg
+46.11692001609893
+
+Naxrell
+median perf avg
+36.699679970715536
+
+Ibs
+median perf avg
+54.49239484688198
+
+D�
+median perf avg
+60.4358361264024
+
+Leggz
+median perf avg
+52.86297211567699
+
+Solow
+median perf avg
+56.770477131190084
+
+Frostty
+median perf avg
+56.39459124629931
+
+Holystrikez
+median perf avg
+42.783874044350654
+
+Tacolock
+median perf avg
+61.91119163072463
+
+Shadowpumper
+median perf avg
+42.10510549059514
+
+Mesinary
+median perf avg
+56.081305047192714
+
+Bonescythes
+median perf avg
+46.1595002140587
+
+Valisa
+median perf avg
+40.572854389742126
+
+Bubsterino
+median perf avg
+45.155218041380515
+
+Leth�
+median perf avg
+49.36676815129919
+
+Toneloco
+median perf avg
+49.22407238411132
+
+Klaruska
+median perf avg
+52.12332796414957
+
+Omgbeargtfo
+median perf avg
+37.977213339991835
+
+Cyberdemon
+median perf avg
+45.57080237773766
+
+Spadoink
+median perf avg
+42.995792902691086
+
+Hecky
+median perf avg
+53.36712209450223
+
+L�na
+median perf avg
+60.621693700537605
+
+Natey
+median perf avg
+44.05390138142592
+
+Barlthius
+median perf avg
+35.93379445157021
+
+Orlok
+median perf avg
+62.22098933780228
+
+Magemaev
+median perf avg
+40.637869530240714
+
+Kisaryk
+median perf avg
+64.14627562905588
+
+Jeffrodine
+median perf avg
+58.724330048972476
+
+Dazanee
+median perf avg
+51.710214370033924
+
+Ssri
+median perf avg
+61.045660794554
+
+Lifesbane
+median perf avg
+37.42150415358033
+
+Irav
+median perf avg
+45.179981876187085
+
+Dderidex
+median perf avg
+48.919346813020844
+
+Zerotwouwu
+median perf avg
+42.89997695332389
+
+Rainz
+median perf avg
+50.14638120345809
+
+Purewrath
+median perf avg
+39.850714728953584
+
+Cramerino
+median perf avg
+40.98686563002497
+
+Verminnard
+median perf avg
+44.5155878925023
+
+Sallyshock
+median perf avg
+62.718150154114404
+
+Kriegore
+median perf avg
+50.8348641975397
+
+Fawcett
+median perf avg
+45.56333735652776
+
+Mordotz
+median perf avg
+44.96782549091166
+
+Narella
+median perf avg
+35.47892468491995
+
+Furealtho
+median perf avg
+62.53709624788641
+
+Ferlinon
+median perf avg
+59.403561631018945
+
+Tenebrea
+median perf avg
+58.09204533901443
+
+Shoobadabu
+median perf avg
+43.119229513339526
+
+Imessential
+median perf avg
+42.855764654273415
+
+Dtox
+median perf avg
+50.88996312431392
+
+Frostb�t
+median perf avg
+57.0266243836257
+
+Siladar
+median perf avg
+43.15375792139865
+
+Ragard
+median perf avg
+39.26623082680114
+
+Morganlefee
+median perf avg
+40.89364928214062
+
+Airc
+median perf avg
+37.708859787470416
+
+Solidarm
+median perf avg
+51.43708625168275
+
+Skott
+median perf avg
+49.920572637524955
+
+Parts
+median perf avg
+37.09024217183413
+
+Akariliselle
+median perf avg
+62.15880439053608
+
+Tasenshadsen
+median perf avg
+63.11781659212554
+
+Leelemon
+median perf avg
+61.62394496808557
+
+Vargasm
+median perf avg
+53.76393206458716
+
+Ellaera
+median perf avg
+59.94895705978456
+
+Daito
+median perf avg
+42.57421149635002
+
+Ranuvin
+median perf avg
+51.08051826682048
+
+Zoltaan
+median perf avg
+54.416965770822486
+
+Flintfforge
+median perf avg
+38.81982608711526
+
+Roguealex
+median perf avg
+54.46012224126452
+
+Legubrious
+median perf avg
+42.76818463405409
+
+Minalaw
+median perf avg
+50.913028469582045
+
+Mordren
+median perf avg
+42.42293782058468
+
+Desdaemona
+median perf avg
+53.58869168058379
+
+Cyralas
+median perf avg
+62.80203978844669
+
+Sidelga
+median perf avg
+41.9711899182836
+
+Stockade
+median perf avg
+51.72428009757838
+
+Qyte
+median perf avg
+59.18094975928363
+
+Crowlie
+median perf avg
+62.616781561571216
+
+Beaverreaver
+median perf avg
+54.61166369383598
+
+Charlatan
+median perf avg
+46.69491836536296
+
+Roglar
+median perf avg
+57.71432349105804
+
+Nixsie
+median perf avg
+43.47516219172042
+
+Kowdachi
+median perf avg
+56.13797622946845
+
+Bowbins
+median perf avg
+56.152811862978645
+
+Dagleas
+median perf avg
+37.730559406004815
+
+Stickley
+median perf avg
+36.2468797997838
+
+Jinichi
+median perf avg
+50.411274885041756
+
+Speedyjosh
+median perf avg
+55.880891160904355
+
+Draxuz
+median perf avg
+51.05112832718612
+
+Smells
+median perf avg
+53.87597764657797
+
+Uxas
+median perf avg
+57.83488801534869
+
+Hwmagx
+median perf avg
+57.08960900643397
+
+Sephorea
+median perf avg
+49.072427482423485
+
+Biggis
+median perf avg
+39.90776759856649
+
+Mylah
+median perf avg
+37.14804493619644
+
+Donnamarrtin
+median perf avg
+54.31202949120545
+
+Valesca
+median perf avg
+59.708971137895894
+
+Yiyiyi
+median perf avg
+56.24749992714861
+
+Valus
+median perf avg
+64.47692601300989
+
+Vaikor
+median perf avg
+49.495102078941414
+
+Samian
+median perf avg
+43.522348860112686
+
+Killoff
+median perf avg
+49.46957995366984
+
+Kazs
+median perf avg
+53.95506136315457
+
+Raemysterio
+median perf avg
+57.10569767629722
+
+Darknun
+median perf avg
+48.3013049357413
+
+Oneystar
+median perf avg
+52.30378812415882
+
+Havoc
+median perf avg
+50.12658471709908
+
+Msvilack
+median perf avg
+37.89029181056338
+
+Perrine
+median perf avg
+39.39466357814732
+
+Vaedrick
+median perf avg
+50.94735321425242
+
+Dazsharas
+median perf avg
+58.56879558229619
+
+Mcstabbsalot
+median perf avg
+53.21985230928051
+
+Whitlock
+median perf avg
+48.45393407670704
+
+Neildiamond
+median perf avg
+38.10502375094241
+
+Slatester
+median perf avg
+56.53643866539596
+
+Versha
+median perf avg
+58.7353053507956
+
+Minor
+median perf avg
+38.02989518631875
+
+Timbervale
+median perf avg
+56.18485067561826
+
+Gsus
+median perf avg
+49.95603841642001
+
+Wermys
+median perf avg
+40.76070012406589
+
+Alastia
+median perf avg
+52.96311512958591
+
+Ayvery
+median perf avg
+41.738204716933495
+
+Stufful
+median perf avg
+46.5477727780101
+
+Farmest
+median perf avg
+47.50349144722286
+
+Scalli
+median perf avg
+35.172055456914805
+
+Hezzul
+median perf avg
+55.18296460484179
+
+Gly
+median perf avg
+54.08877588990647
+
+Stethneck
+median perf avg
+51.552500398835946
+
+Latoxica
+median perf avg
+60.3637084959143
+
+Phobetor
+median perf avg
+55.190320542706715
+
+Polyphemus
+median perf avg
+59.52678984612789
+
+Enforcer
+median perf avg
+60.66593873139721
+
+Stones�e
+median perf avg
+49.874068294883685
+
+Lossemenel
+median perf avg
+51.7385586473936
+
+Solarbread
+median perf avg
+41.06604586648484
+
+Pollux
+median perf avg
+41.471883035891736
+
+Gregormendel
+median perf avg
+49.456937520933394
+
+Gnormal
+median perf avg
+37.5395227068695
+
+Darkmystery
+median perf avg
+55.31487008683834
+
+Emberfang
+median perf avg
+60.91345706138721
+
+Wizzleshmoos
+median perf avg
+46.65038447578203
+
+Nevah
+median perf avg
+63.55088005963006
+
+Blep
+median perf avg
+43.78707102359843
+
+Stupidorc
+median perf avg
+55.155003962304605
+
+Tincture
+median perf avg
+41.1817894849431
+
+Azael
+median perf avg
+64.15453602797356
+
+Norland
+median perf avg
+48.45699037360763
+
+Hudini
+median perf avg
+54.322009752140936
+
+Desatoya
+median perf avg
+55.22004781910856
+
+Coven
+median perf avg
+49.237677256729434
+
+Jocov
+median perf avg
+48.211207838845
+
+Rikeasaiyan
+median perf avg
+63.39840218633525
+
+Drattah
+median perf avg
+46.92495398410957
+
+Jimbobaggins
+median perf avg
+42.02154452622658
+
+Phantazma
+median perf avg
+55.719450283227026
+
+Kashick
+median perf avg
+59.08765088543327
+
+Rendmend
+median perf avg
+47.402953061639295
+
+Lateralas
+median perf avg
+38.38867466689852
+
+Chingo
+median perf avg
+43.08719045411594
+
+Variety
+median perf avg
+60.531326425473836
+
+Orlock
+median perf avg
+53.79920126694039
+
+Nesarious
+median perf avg
+63.183185871872446
+
+Okina
+median perf avg
+37.21252939018723
+
+Lockdanan
+median perf avg
+39.63877162451711
+
+Smellikefish
+median perf avg
+56.25082801768001
+
+Smiles
+median perf avg
+55.1597011326362
+
+Wolfhunter
+median perf avg
+45.13737229024702
+
+Smipp
+median perf avg
+46.92308912512286
+
+Cynge
+median perf avg
+60.0607019826956
+
+Leafheart
+median perf avg
+51.04851644694145
+
+Filla
+median perf avg
+59.649357078854486
+
+Druadas
+median perf avg
+41.200257988993215
+
+Hansgrubear
+median perf avg
+61.72651416630039
+
+Mcshankins
+median perf avg
+41.73155819058159
+
+Shiruvi
+median perf avg
+50.94573354587322
+
+Ganelon
+median perf avg
+42.04055254298551
+
+Rivaa
+median perf avg
+62.81576226101725
+
+Einbjorg
+median perf avg
+39.14508726635161
+
+Doohickey
+median perf avg
+51.861888662182174
+
+Stalara
+median perf avg
+37.353508657892924
+
+Alliginthur
+median perf avg
+57.73744886473866
+
+Vishus
+median perf avg
+50.257147045772314
+
+Tavos
+median perf avg
+45.50981474052347
+
+Dauthi
+median perf avg
+42.36439123038167
+
+Krabaxis
+median perf avg
+51.41349202927485
+
+Torizar
+median perf avg
+48.064454366530185
+
+Frozensoil
+median perf avg
+62.87911315602348
+
+Burnns
+median perf avg
+54.60036251111036
+
+Gladribbits
+median perf avg
+53.58285330470154
+
+Sarkwen
+median perf avg
+59.406584761159664
+
+Secretrabbi
+median perf avg
+42.46346565545963
+
+Locksout
+median perf avg
+47.89710410242991
+
+Littlek
+median perf avg
+50.682313518244285
+
+Wingnutt
+median perf avg
+61.30626459838126
+
+Venda
+median perf avg
+45.23633351174898
+
+Thehusband
+median perf avg
+62.24854746656936
+
+Mageymagey
+median perf avg
+56.17868829817003
+
+Kerovi
+median perf avg
+45.33125572542328
+
+Zolath
+median perf avg
+43.64649237407555
+
+Booch
+median perf avg
+50.28757334858831
+
+Potchypewpew
+median perf avg
+43.31764558402522
+
+Congelatore
+median perf avg
+55.09510955963791
+
+Mingg
+median perf avg
+48.846792366613194
+
+Pumpkinale
+median perf avg
+49.68899579862423
+
+Halfpint
+median perf avg
+60.38276048262668
+
+Deefi
+median perf avg
+53.816603437253804
+
+Clapt
+median perf avg
+60.269844509330255
+
+Muaddib
+median perf avg
+41.35177899311661
+
+Nacholibre
+median perf avg
+36.57393974926864
+
+Gabapentin
+median perf avg
+55.23522203051284
+
+Heymone
+median perf avg
+36.21150610035354
+
+Erisellie
+median perf avg
+39.00230781964519
+
+Bedlin
+median perf avg
+46.52357776979038
+
+Hovely
+median perf avg
+47.46367863026277
+
+Yogs
+median perf avg
+50.59263412018244
+
+Esquared
+median perf avg
+54.534985113755205
+
+Yellowpepper
+median perf avg
+49.25644373800464
+
+Olddicktwist
+median perf avg
+57.43679319330606
+
+Scraif
+median perf avg
+48.90447981825148
+
+Sokthuel
+median perf avg
+53.93056367425785
+
+Ghouldann
+median perf avg
+59.205587034344425
+
+Relagon
+median perf avg
+35.81909777725606
+
+Galleria
+median perf avg
+61.6907027113669
+
+Tairyn
+median perf avg
+44.4980764665652
+
+Arboria
+median perf avg
+57.051396409586225
+
+Kinmuf
+median perf avg
+64.4622560680636
+
+Hjerk
+median perf avg
+49.01572453963919
+
+Englebert
+median perf avg
+61.924230770426654
+
+Witiwap
+median perf avg
+41.86883751474205
+
+Ancane
+median perf avg
+40.66928785855819
+
+Kl�v�g�
+median perf avg
+38.283004001233024
+
+Riso
+median perf avg
+59.14374688549231
+
+Boredathome
+median perf avg
+36.87779131986578
+
+Inosuke
+median perf avg
+54.74614810649266
+
+Nazzuk
+median perf avg
+51.22588228692899
+
+Lildinger
+median perf avg
+37.810089743412156
+
+Kanndo
+median perf avg
+62.41131574105228
+
+Kyranda
+median perf avg
+49.39797309022765
+
+Fr�ak
+median perf avg
+58.551081336665966
+
+Cyren
+median perf avg
+51.36512036300626
+
+Ic�rus
+median perf avg
+63.7446013978144
+
+Hiltz
+median perf avg
+43.248203007388774
+
+Emeraldninja
+median perf avg
+59.96201577071868
+
+Mackavelly
+median perf avg
+42.676437691058155
+
+Pkrneck
+median perf avg
+57.585010870533495
+
+Sonofblep
+median perf avg
+53.07052277009812
+
+Glinkz
+median perf avg
+53.743602065367384
+
+Valer�an
+median perf avg
+51.865493521018685
+
+Diabolysk
+median perf avg
+48.271245306101974
+
+Bellurdan
+median perf avg
+60.13663011404174
+
+Khyra
+median perf avg
+59.957717489052264
+
+Takeudown
+median perf avg
+62.95902409767302
+
+Thangg
+median perf avg
+48.25181614061242
+
+Johnnylong
+median perf avg
+36.81819643967106
+
+Shakari
+median perf avg
+51.07025290160779
+
+Neloran
+median perf avg
+47.02290277461389
+
+Petergriffon
+median perf avg
+57.37628602655455
+
+Galred
+median perf avg
+49.994781243258196
+
+Skandaar
+median perf avg
+56.98127053818067
+
+Rogthok
+median perf avg
+44.914206689240565
+
+Luub
+median perf avg
+55.68673145660494
+
+Exterminator
+median perf avg
+62.50775852192927
+
+Felda
+median perf avg
+44.640098743930785
+
+Varienz
+median perf avg
+49.620900741254175
+
+Jltoddy
+median perf avg
+43.37964915777839
+
+Behindya
+median perf avg
+64.4918880996383
+
+Xanmar
+median perf avg
+44.846227646515196
+
+Nicolai
+median perf avg
+39.81864322157082
+
+Mightguy
+median perf avg
+61.27728481760637
+
+Smallbing
+median perf avg
+63.79325099040118
+
+Femmi
+median perf avg
+47.92737466991045
+
+Danktruid
+median perf avg
+36.46945636100883
+
+Klay
+median perf avg
+57.08646593999724
+
+Bitterness
+median perf avg
+52.60361698950504
+
+Saarthal
+median perf avg
+53.87520132388044
+
+Garet
+median perf avg
+42.81283357753635
+
+Knope
+median perf avg
+50.13545712049509
+
+Dingledorff
+median perf avg
+48.22276519473723
+
+Kalinka
+median perf avg
+50.5613091165635
+
+Meepmop
+median perf avg
+61.87737020679134
+
+Chipp
+median perf avg
+42.029001461785676
+
+Nocus
+median perf avg
+57.593226564235145
+
+Sitk�
+median perf avg
+64.83693066359619
+
+Frostmancer
+median perf avg
+48.49903891861011
+
+D�tmedaddy
+median perf avg
+63.580961754407426
+
+Arkadas
+median perf avg
+43.55371465794195
+
+Naturalistic
+median perf avg
+59.01346334359359
+
+Haein
+median perf avg
+39.826236486352876
+
+Stareana
+median perf avg
+52.63174440106724
+
+Tinkerbel
+median perf avg
+37.828345441502705
+
+Amgis
+median perf avg
+54.21042797724964
+
+Skyrra
+median perf avg
+63.936096529566335
+
+Kektheneck
+median perf avg
+43.86657029192797
+
+Babear
+median perf avg
+52.06154180003977
+
+Argyn
+median perf avg
+38.555020089874525
+
+Snooki
+median perf avg
+60.593328631506004
+
+Thurax
+median perf avg
+46.37718831918072
+
+Luthiens
+median perf avg
+53.25508821837607
+
+Bakhtosh
+median perf avg
+36.81788078535771
+
+Qwendrium
+median perf avg
+35.74928467273604
+
+Pureownage
+median perf avg
+51.36696781993125
+
+Ayatt
+median perf avg
+62.5
+
+Svoboda
+median perf avg
+59.805922408758434
+
+Moonclawe
+median perf avg
+49.42031545991245
+
+Krump
+median perf avg
+56.94263269784641
+
+Irenemeow
+median perf avg
+59.484271252456566
+
+Alcamadus
+median perf avg
+56.51795846837491
+
+Saulrrior
+median perf avg
+57.12960465039733
+
+Doomed
+median perf avg
+44.82135248314188
+
+Shamonna
+median perf avg
+36.58541340764685
+
+Foxforcefive
+median perf avg
+50.420351259186454
+
+Austyn
+median perf avg
+43.09930502564761
+
+Mooncrazed
+median perf avg
+61.767347754615194
+
+Prozac
+median perf avg
+43.54865484782629
+
+Uggsy
+median perf avg
+64.25727770833174
+
+Oz
+median perf avg
+48.00143339078103
+
+Trebloc
+median perf avg
+57.44406237267249
+
+Tascher
+median perf avg
+46.63717467306152
+
+Kounan
+median perf avg
+59.203896166218755
+
+Rexdel
+median perf avg
+63.32920969447372
+
+Nedrick
+median perf avg
+63.32443575851406
+
+Thanksgiving
+median perf avg
+43.820134477620826
+
+Frizz
+median perf avg
+52.2295846608719
+
+Euph
+median perf avg
+49.88245656674795
+
+Lilshrimp
+median perf avg
+62.46962663023031
+
+Held
+median perf avg
+43.49442067677362
+
+Demonmurder
+median perf avg
+63.591346269653535
+
+Randomlock
+median perf avg
+61.48129710300056
+
+Soreaxe
+median perf avg
+49.96449841190566
+
+Badbuoy
+median perf avg
+55.206071007408426
+
+Bigpapisneak
+median perf avg
+54.65459480304172
+
+Moroloaki
+median perf avg
+43.93742970569022
+
+Classaquos
+median perf avg
+48.68597856926716
+
+Tezza
+median perf avg
+56.57362369682403
+
+Hellopanda
+median perf avg
+46.24725416479795
+
+Redsquiggle
+median perf avg
+48.17659378746727
+
+Adinia
+median perf avg
+57.690324111055894
+
+Calienne
+median perf avg
+45.87088388683251
+
+Argantha
+median perf avg
+46.72548185842204
+
+Badapewpew
+median perf avg
+58.875301628571016
+
+Exanthus
+median perf avg
+47.00882478777754
+
+Shadowtoast
+median perf avg
+50.11913141931038
+
+Tootnshootn
+median perf avg
+37.76188466900466
+
+Tonitrum
+median perf avg
+58.80863220725049
+
+Toasterbath
+median perf avg
+58.64865921408693
+
+Agrade
+median perf avg
+60.79324320214442
+
+Azuj
+median perf avg
+50.359919814600765
+
+Cyberdruid
+median perf avg
+43.42551435905728
+
+Frosteetank
+median perf avg
+46.056828365023506
+
+Bellyfat
+median perf avg
+51.829954203088775
+
+Ovilia
+median perf avg
+42.672421910822365
+
+Dumbledoge
+median perf avg
+53.749536236897875
+
+Romias
+median perf avg
+35.30486698968282
+
+Shadestalker
+median perf avg
+50.454060915935585
+
+Hihat
+median perf avg
+41.91201394219905
+
+Goomers
+median perf avg
+46.70659662377656
+
+�ce
+median perf avg
+61.595872028202436
+
+Banaris
+median perf avg
+51.62817674166411
+
+Telligentsia
+median perf avg
+57.06775966251973
+
+T�rt�ga
+median perf avg
+47.48714931912761
+
+Rhorim
+median perf avg
+35.184518738632796
+
+Beartruck
+median perf avg
+48.69808385752815
+
+Gnimsh
+median perf avg
+50.70961011095286
+
+Darthgnome
+median perf avg
+52.36357582105864
+
+Nickjonas
+median perf avg
+58.812072192585504
+
+Unstopaderp
+median perf avg
+41.69838495255473
+
+Polis
+median perf avg
+57.01204061587058
+
+Bloodkomodo
+median perf avg
+49.69720710825549
+
+Snesclassic
+median perf avg
+61.15117574051767
+
+Xenocide
+median perf avg
+51.670105961929664
+
+Jonaya
+median perf avg
+64.51473590122411
+
+Jayalan
+median perf avg
+64.05919277188241
+
+Potluck
+median perf avg
+39.146776088704705
+
+Exige
+median perf avg
+59.36454229399865
+
+Averetta
+median perf avg
+48.53778978553123
+
+Murlok
+median perf avg
+57.27205573933744
+
+Verato
+median perf avg
+63.61420328485715
+
+Meythor
+median perf avg
+43.61354559630676
+
+Rixa
+median perf avg
+49.493686709689015
+
+Cangoc
+median perf avg
+49.428063211600914
+
+Darkcrescent
+median perf avg
+46.917930607850494
+
+Doomnz
+median perf avg
+48.68196556599305
+
+Cerie
+median perf avg
+61.39010191489732
+
+Machonochi
+median perf avg
+44.62943789115353
+
+Odeon
+median perf avg
+61.84669595368573
+
+Nyko
+median perf avg
+44.65412954601153
+
+Serpento
+median perf avg
+50.92104076977764
+
+Filobedo
+median perf avg
+56.76868484243326
+
+Figdrok
+median perf avg
+56.97090355538745
+
+Hornbear
+median perf avg
+47.900177637675306
+
+Ashforge
+median perf avg
+46.05729074495389
+
+Fr�tz
+median perf avg
+40.88451104319195
+
+Madfury
+median perf avg
+56.41970166360207
+
+Windchill
+median perf avg
+62.03682343733979
+
+Frogears
+median perf avg
+40.71017385968547
+
+Ixana
+median perf avg
+51.46448255146466
+
+Trielwin
+median perf avg
+52.436927713656374
+
+Psylock�
+median perf avg
+53.64992039730204
+
+Zandersz
+median perf avg
+56.84329231251209
+
+Tirren
+median perf avg
+57.14491689561475
+
+Cinderella
+median perf avg
+52.91585789329859
+
+Granith
+median perf avg
+61.16338978742545
+
+Keldri
+median perf avg
+55.57966883385239
+
+Dement�
+median perf avg
+54.37697505693154
+
+Saranalle
+median perf avg
+38.617653154548194
+
+Impsie
+median perf avg
+38.29860662490732
+
+Woodystabbin
+median perf avg
+48.28082133761323
+
+Delrond
+median perf avg
+42.91031697896058
+
+Sickb�y
+median perf avg
+60.29313594273489
+
+Yuzo
+median perf avg
+55.209284511051095
+
+Hotahote
+median perf avg
+40.7171020507493
+
+Kaos
+median perf avg
+49.73604711952901
+
+Maveric
+median perf avg
+46.709154805426984
+
+Musterdtiger
+median perf avg
+42.16171081650263
+
+Autosave
+median perf avg
+64.3469454490439
+
+Freeble
+median perf avg
+53.968770883806705
+
+Ragnoraptor
+median perf avg
+56.28166688887785
+
+Ikaz
+median perf avg
+52.13840714494013
+
+Laralai
+median perf avg
+54.05012582918034
+
+Droogz
+median perf avg
+44.102701744324236
+
+Gnofear
+median perf avg
+35.82831344145382
+
+Shadowshrek
+median perf avg
+57.593655232964245
+
+Dagrouch
+median perf avg
+46.864639546112684
+
+Ziggymars
+median perf avg
+52.50773909076772
+
+Dwinit
+median perf avg
+40.13499934911238
+
+Wisker
+median perf avg
+58.654554037769174
+
+Libow
+median perf avg
+55.81397912982481
+
+Oppslolsorry
+median perf avg
+43.57322624151305
+
+Jeonsei
+median perf avg
+51.49799764672207
+
+Moredot
+median perf avg
+47.94498175436275
+
+Bhemage
+median perf avg
+53.53645929419833
+
+Kiixxs
+median perf avg
+63.4759484470404
+
+Pokemedaddy
+median perf avg
+57.02312590567589
+
+Wookierunner
+median perf avg
+35.16160706221277
+
+Swiftcat
+median perf avg
+47.56230274771422
+
+Stormagedon
+median perf avg
+55.63606429648899
+
+Abelinkin
+median perf avg
+62.16810336360687
+
+Jaycalette
+median perf avg
+56.61508817602025
+
+L�thbrok
+median perf avg
+47.41468627676739
+
+Astager
+median perf avg
+39.61394734704579
+
+Smudgemuffin
+median perf avg
+58.303247013224976
+
+Autofu
+median perf avg
+50.29422401603483
+
+Disinfectant
+median perf avg
+50.93441524746656
+
+Bathmat
+median perf avg
+56.36771956312843
+
+Infinis
+median perf avg
+37.88495166824501
+
+Megaikillies
+median perf avg
+39.369893101468605
+
+Damphair
+median perf avg
+62.617291842035684
+
+Fayne
+median perf avg
+39.83738424145569
+
+Iceanna
+median perf avg
+56.56576882423606
+
+Nezlavar
+median perf avg
+63.9869603665008
+
+Hewn
+median perf avg
+50.262119204003284
+
+Guntha
+median perf avg
+59.27503114765513
+
+Itann
+median perf avg
+39.72538327454848
+
+Thozm
+median perf avg
+45.25877702963645
+
+Missdeez
+median perf avg
+41.381405640829016
+
+Aarpdiscount
+median perf avg
+46.02046860402038
+
+Valefar
+median perf avg
+64.88085192520253
+
+Edgilicious
+median perf avg
+53.339587124785275
+
+Frostibrew
+median perf avg
+64.0602917062338
+
+Mogresh
+median perf avg
+60.17569693228149
+
+Perceliath
+median perf avg
+50.77888384822113
+
+Hunx
+median perf avg
+53.061931414793484
+
+Beshaba
+median perf avg
+38.47743561509304
+
+Mediattack
+median perf avg
+47.165836553441025
+
+Offensivname
+median perf avg
+42.49021909769395
+
+Platinumzors
+median perf avg
+64.329752189282
+
+Ozaine
+median perf avg
+61.45858358021487
+
+Cheesestick
+median perf avg
+64.6721990724518
+
+Hechizara
+median perf avg
+36.358813209886584
+
+P�ncakes
+median perf avg
+52.353398215879515
+
+Bruz
+median perf avg
+37.92607526241217
+
+Moonfreeze
+median perf avg
+61.09047630799698
+
+Stabbantha
+median perf avg
+38.4904324672805
+
+Tscarlet
+median perf avg
+51.30236449465861
+
+Palekarma
+median perf avg
+58.81636877912152
+
+Monkingo
+median perf avg
+52.05757975404189
+
+Fanesh
+median perf avg
+54.433327770881
+
+Mifd
+median perf avg
+42.953129907813036
+
+Nokym
+median perf avg
+50.016991799995544
+
+Caudillo
+median perf avg
+35.51124385011631
+
+S�nn
+median perf avg
+46.47944058031441
+
+Deathrealm
+median perf avg
+51.11546712613714
+
+Xelhannah
+median perf avg
+51.39966495932603
+
+Epan
+median perf avg
+48.48409195131058
+
+Seppuku
+median perf avg
+40.54097437682665
+
+Boombooms
+median perf avg
+63.356361472876515
+
+Korba
+median perf avg
+42.88628402643702
+
+Shotta
+median perf avg
+56.54603741032255
+
+Putrano
+median perf avg
+49.592049697773405
+
+Townsend
+median perf avg
+52.03948813919699
+
+Nastyice
+median perf avg
+37.40595191180801
+
+Feryl
+median perf avg
+63.17787465483901
+
+Babyfin
+median perf avg
+39.244702990261736
+
+Querc�s
+median perf avg
+58.97774629877941
+
+Wirenut
+median perf avg
+63.57237357219372
+
+Treblot
+median perf avg
+51.8564312464243
+
+Mondeluna
+median perf avg
+59.04524497874302
+
+Aivet
+median perf avg
+45.372168233536286
+
+Proxywarlock
+median perf avg
+44.497654260741164
+
+Nightelfnerd
+median perf avg
+43.79577771314743
+
+Juanito
+median perf avg
+49.34741076719245
+
+Flytrap
+median perf avg
+59.20031964865524
+
+Oscardivine
+median perf avg
+57.43181254518932
+
+Obohredrum
+median perf avg
+43.59808616852603
+
+Turks
+median perf avg
+53.79168770648753
+
+Moopz
+median perf avg
+50.01990285447342
+
+Falinora
+median perf avg
+61.66809209477838
+
+Wizzil
+median perf avg
+40.473515393103895
+
+Sypo
+median perf avg
+35.15850460912477
+
+Sindal
+median perf avg
+46.468053599234715
+
+Ragenoob
+median perf avg
+61.67110481973205
+
+Xenin
+median perf avg
+63.1532971535349
+
+Madmoon
+median perf avg
+51.49256261088835
+
+Akumagaku
+median perf avg
+47.650340055919216
+
+Murimagi
+median perf avg
+37.35869647090276
+
+Daddyishuz
+median perf avg
+52.53110003761933
+
+Stephenly
+median perf avg
+51.48350124177827
+
+Sageleaf
+median perf avg
+39.55565979902372
+
+Thefrog
+median perf avg
+40.76840924923852
+
+Ragenibba
+median perf avg
+49.03742781624393
+
+Liaison
+median perf avg
+36.00535121940766
+
+Phaemos
+median perf avg
+46.27975779384089
+
+Discovered
+median perf avg
+51.533061744486595
+
+Tatyana
+median perf avg
+36.48978324485464
+
+L�cis
+median perf avg
+45.22268528850718
+
+Pinkit
+median perf avg
+60.358925441470454
+
+Shivshady
+median perf avg
+36.6334958464704
+
+Pwngejoolius
+median perf avg
+57.82143670131501
+
+Pul
+median perf avg
+51.595202756017954
+
+Bcboomkin
+median perf avg
+55.87859209268632
+
+Shoe
+median perf avg
+58.79280580675206
+
+Stato
+median perf avg
+53.556294854658404
+
+Jezzibell
+median perf avg
+52.079375815318656
+
+Sarosbucket
+median perf avg
+39.62133151042409
+
+Oniraxa
+median perf avg
+38.633663878313655
+
+Lemicks
+median perf avg
+40.80942998276706
+
+Orduni
+median perf avg
+64.54661389253253
+
+Buryall
+median perf avg
+55.76609795343037
+
+Tert
+median perf avg
+44.42726190137344
+
+Thel
+median perf avg
+62.377969122162796
+
+Nankypoo
+median perf avg
+46.72764066497296
+
+Aslowfatguy
+median perf avg
+64.14054919390604
+
+Dotdropnroll
+median perf avg
+62.6179236361726
+
+Nutabuta
+median perf avg
+64.58415583800881
+
+Britneysears
+median perf avg
+50.98517471700528
+
+W�rped
+median perf avg
+41.376763190160034
+
+Asinorum
+median perf avg
+64.14435717315868
+
+Gr�mlock
+median perf avg
+40.785284374301064
+
+Alita
+median perf avg
+35.64830284479502
+
+Amaranthia
+median perf avg
+39.958194533777345
+
+Azaprinsess
+median perf avg
+55.29610239646254
+
+Kalnas
+median perf avg
+47.444727275421684
+
+Ec
+median perf avg
+56.94915943594371
+
+Bluedawn
+median perf avg
+41.57232713900128
+
+Lanfaer
+median perf avg
+58.301395689977475
+
+Hughcrits
+median perf avg
+45.09237776923569
+
+Premature
+median perf avg
+64.41796184474882
+
+�ronclad
+median perf avg
+62.85523330068731
+
+Hplovecraft
+median perf avg
+56.17178390826117
+
+Billbrazki
+median perf avg
+39.21961674680961
+
+Pantone
+median perf avg
+64.85250676111863
+
+Jani
+median perf avg
+61.3014943015935
+
+Naginta
+median perf avg
+48.16915280822074
+
+Minaomilly
+median perf avg
+63.85383947457829
+
+Takkoboutit
+median perf avg
+54.46691567921836
+
+Asacol
+median perf avg
+35.80336524407831
+
+Winston
+median perf avg
+60.26426307678974
+
+Pyroman
+median perf avg
+43.84489118451569
+
+Ansleis
+median perf avg
+62.23334517208227
+
+Lurora
+median perf avg
+38.92528559828662
+
+Falcoar
+median perf avg
+54.85425432924272
+
+Slarenex
+median perf avg
+47.26684130850861
+
+�erelict
+median perf avg
+39.08692107112613
+
+Sarth
+median perf avg
+48.13972403558349
+
+Demonthemage
+median perf avg
+44.17266332499675
+
+Gruumble
+median perf avg
+49.5654175374097
+
+Jampolsky
+median perf avg
+53.31503599157968
+
+Volken
+median perf avg
+50.27146577656149
+
+Phedra
+median perf avg
+55.20102221937363
+
+Ado
+median perf avg
+62.2762030059186
+
+Manahogg
+median perf avg
+61.18608423347844
+
+Alchemx
+median perf avg
+55.00769054882978
+
+Askaria
+median perf avg
+39.70992907439985
+
+Donnah
+median perf avg
+62.69035007462721
+
+Sterline
+median perf avg
+56.50213034005273
+
+G�o
+median perf avg
+37.36312257375018
+
+Frozzeni
+median perf avg
+50.83855365090001
+
+Keraba
+median perf avg
+39.508623825827364
+
+Beale
+median perf avg
+35.736517453646016
+
+Landraven
+median perf avg
+51.64385812418653
+
+Felstriker
+median perf avg
+53.27366894491739
+
+Pyxnyx
+median perf avg
+47.35672840076909
+
+Graendal
+median perf avg
+40.901778539963274
+
+Begbie
+median perf avg
+46.801438460850115
+
+Maculatum
+median perf avg
+46.76070292752895
+
+Sarafina
+median perf avg
+63.88210893037333
+
+Boocraft
+median perf avg
+61.513524695447984
+
+Squinqy
+median perf avg
+46.054895032427055
+
+Superstar
+median perf avg
+60.39434253465954
+
+Striken
+median perf avg
+53.93614827498585
+
+Wendlynne
+median perf avg
+55.57640564641301
+
+Nachodaddy
+median perf avg
+57.65225940697712
+
+Damh
+median perf avg
+51.64637770543014
+
+Bonejob
+median perf avg
+55.928488139616185
+
+Axin
+median perf avg
+63.19838203420323
+
+Popout
+median perf avg
+55.26456363484062
+
+Shredhz
+median perf avg
+50.38093018850395
+
+Warvish
+median perf avg
+62.83214144737849
+
+Smorcish
+median perf avg
+45.92650020531094
+
+Kaidel
+median perf avg
+41.17707881919694
+
+Deploring
+median perf avg
+42.898063976834955
+
+Morzen
+median perf avg
+48.43971144724332
+
+Huntingkabu
+median perf avg
+62.30615772800638
+
+Ronix
+median perf avg
+38.2627574385575
+
+Lilnott
+median perf avg
+61.20278646024312
+
+Roodrood
+median perf avg
+43.8825488465431
+
+Niper
+median perf avg
+63.28070221482254
+
+Dalenar
+median perf avg
+38.31025162600185
+
+Blyx
+median perf avg
+52.10814118215205
+
+Ebokka
+median perf avg
+52.82761240368128
+
+Sultas
+median perf avg
+62.34708333442737
+
+Ahotchick
+median perf avg
+40.57567340094292
+
+Valacano
+median perf avg
+48.961868467928454
+
+Calibama
+median perf avg
+38.15790757734057
+
+Weefollow
+median perf avg
+48.56511255104706
+
+Senner
+median perf avg
+39.46575132445222
+
+Rockeldot
+median perf avg
+53.03882237528789
+
+Fossa
+median perf avg
+44.39143556183711
+
+Firelordozai
+median perf avg
+48.79804801981981
+
+Lhiidar
+median perf avg
+47.49715559973426
+
+Bealzulbub
+median perf avg
+43.849479428395284
+
+Miggy
+median perf avg
+64.94495087581794
+
+Gitshred
+median perf avg
+59.98451840477048
+
+Majien
+median perf avg
+54.66470579600667
+
+Cantstandya
+median perf avg
+44.31527202752936
+
+Jif
+median perf avg
+54.068601932735454
+
+Avalanchion
+median perf avg
+64.83019956664286
+
+Goshgolly
+median perf avg
+51.27536985630673
+
+Olnir
+median perf avg
+51.066495283051474
+
+Jarpoon
+median perf avg
+37.15951914391463
+
+Calc
+median perf avg
+64.22397280958945
+
+Vivi�n
+median perf avg
+43.696256331684125
+
+Iolis
+median perf avg
+36.48367034885666
+
+Somegirl
+median perf avg
+58.42311765087792
+
+Rhend
+median perf avg
+39.964193980669144
+
+Kilrfrost
+median perf avg
+42.121416330297166
+
+Wuffles
+median perf avg
+60.82082704915706
+
+Sinicdabeast
+median perf avg
+47.92531771005964
+
+Reeformed
+median perf avg
+57.28342939332228
+
+Snazzy
+median perf avg
+53.646777193564745
+
+Hex�s
+median perf avg
+47.47544369451558
+
+Absolutefury
+median perf avg
+60.01230163570255
+
+Toonces
+median perf avg
+55.58395718722958
+
+Spim
+median perf avg
+37.32809438813672
+
+Talli
+median perf avg
+36.502448481808806
+
+Krina
+median perf avg
+39.9896876130967
+
+Minestrone
+median perf avg
+62.79097655985552
+
+Yull
+median perf avg
+60.26679519887812
+
+Moonsu
+median perf avg
+39.920224008300664
+
+Gabbaghoul
+median perf avg
+44.85660847535836
+
+Mccaffrey
+median perf avg
+35.50943934922078
+
+Maroo
+median perf avg
+64.3377516015064
+
+Fleecejohnsn
+median perf avg
+40.646813304802066
+
+Turdreign
+median perf avg
+56.379377172972674
+
+Teejay
+median perf avg
+49.26166783587362
+
+Gnordberg
+median perf avg
+59.39060799371596
+
+Alary
+median perf avg
+62.68892538128688
+
+Everlee
+median perf avg
+54.699312431456285
+
+Drexan
+median perf avg
+39.82614947889741
+
+Logoth
+median perf avg
+54.41479550140787
+
+Kalgorath
+median perf avg
+45.99415352675266
+
+Tr��p
+median perf avg
+42.27352501291586
+
+Ry
+median perf avg
+62.01441644459136
+
+Fireslyr
+median perf avg
+63.51503579950466
+
+Ober
+median perf avg
+60.75646883732286
+
+Melliris
+median perf avg
+53.910100861588646
+
+Rast
+median perf avg
+57.22233601600598
+
+Xandric
+median perf avg
+58.3555847186683
+
+Hoboo
+median perf avg
+49.127664767928074
+
+Yggdrasila
+median perf avg
+41.3630384293157
+
+Spi
+median perf avg
+51.41695111389982
+
+Zbadyminz
+median perf avg
+41.44101428360653
+
+Uthger
+median perf avg
+49.78244656817192
+
+Matrilhelm
+median perf avg
+37.36064882236842
+
+Clowning
+median perf avg
+42.970415967220184
+
+Lookoutbelow
+median perf avg
+43.09914380488151
+
+Fad�
+median perf avg
+51.17805494571874
+
+Rifter
+median perf avg
+48.90955891068257
+
+Graulix
+median perf avg
+51.93645518558974
+
+Deanmartin
+median perf avg
+47.45659466789827
+
+Yogus
+median perf avg
+54.84181168751644
+
+Minaomilli
+median perf avg
+56.532054876048676
+
+Biscute
+median perf avg
+61.87176042973671
+
+Karne
+median perf avg
+61.38223785848852
+
+Butoh
+median perf avg
+58.15951559178713
+
+Caryl
+median perf avg
+36.794409030652304
+
+Aeylin
+median perf avg
+56.23483944465498
+
+Ros�
+median perf avg
+55.018418257359514
+
+Manamontanna
+median perf avg
+48.60142971461444
+
+Kayen
+median perf avg
+45.789110982356576
+
+Toli�n
+median perf avg
+64.16885845932674
+
+Thray
+median perf avg
+38.72762809323167
+
+Dwayn
+median perf avg
+54.83044513056671
+
+Shlune
+median perf avg
+38.22684776311574
+
+Tensoonn
+median perf avg
+61.506454449369215
+
+Lilithann
+median perf avg
+51.440670480439536
+
+Gnewton
+median perf avg
+53.41866162798493
+
+Nadacambia
+median perf avg
+36.88047679494009
+
+Ceredalan
+median perf avg
+59.05175629200829
+
+Spiritbearr
+median perf avg
+54.05033477874846
+
+Gwenny
+median perf avg
+49.404397411669635
+
+Chloroquine
+median perf avg
+55.87245451746182
+
+Atina
+median perf avg
+45.17552349482261
+
+Romprstompr
+median perf avg
+62.66059367449914
+
+Nuvi
+median perf avg
+56.5603120575228
+
+Folio
+median perf avg
+58.89323591082218
+
+Helgor
+median perf avg
+60.60563291443637
+
+Gimnley
+median perf avg
+45.16295232415388
+
+Kombu
+median perf avg
+39.49103588648751
+
+Snowtroll
+median perf avg
+61.690039911293624
+
+Medros
+median perf avg
+58.21273305990235
+
+Jubilee
+median perf avg
+58.24682624631184
+
+Bombeon
+median perf avg
+50.500302622072844
+
+Huddle
+median perf avg
+42.62531850855755
+
+Vesian
+median perf avg
+48.035151180841694
+
+Goldteef
+median perf avg
+39.19989878709869
+
+Wilker
+median perf avg
+47.268094272538875
+
+Shish
+median perf avg
+43.953892778466994
+
+Killerq
+median perf avg
+56.37010603328045
+
+Malkis
+median perf avg
+49.57104146215773
+
+Bastas
+median perf avg
+51.037502818837375
+
+Dangerzone
+median perf avg
+55.95015211980457
+
+Kungfoo
+median perf avg
+57.55230186323924
+
+Firasia
+median perf avg
+53.800491745940064
+
+Arcanestone
+median perf avg
+53.33890545989085
+
+Mayzen
+median perf avg
+58.68930379169227
+
+Aristalla
+median perf avg
+40.022150528743005
+
+Morlune
+median perf avg
+49.89552549086836
+
+Asandra
+median perf avg
+49.34473372283601
+
+Ayaguasca
+median perf avg
+48.11466758183005
+
+Semiha
+median perf avg
+46.344716018189004
+
+Cmkyras
+median perf avg
+37.94790070386314
+
+Ron�n
+median perf avg
+54.55585833055852
+
+Eldorada
+median perf avg
+42.129468684031906
+
+Msgkicker
+median perf avg
+50.38821324451179
+
+Misaa
+median perf avg
+47.239664320398326
+
+Guntav
+median perf avg
+61.52298509573821
+
+Kemorah
+median perf avg
+46.77871670883467
+
+Streiff
+median perf avg
+50.305338947523836
+
+Lauralai
+median perf avg
+42.45532153760829
+
+Captstabin
+median perf avg
+49.40488722447609
+
+Angrod
+median perf avg
+39.84899917429769
+
+Feelmycrits
+median perf avg
+47.27660026262473
+
+Mystroe
+median perf avg
+45.963502973112355
+
+Gaudson
+median perf avg
+55.42196296089746
+
+Maysa
+median perf avg
+57.268995772382674
+
+Delinquent
+median perf avg
+35.75166252541746
+
+Dayle
+median perf avg
+53.094012935993966
+
+Bergleta
+median perf avg
+52.780672377754875
+
+Babee
+median perf avg
+59.96866133625219
+
+Superburbs
+median perf avg
+40.61788611062495
+
+Steverogers
+median perf avg
+60.82141168654888
+
+Lsx
+median perf avg
+50.49213326663852
+
+Alyrea
+median perf avg
+36.91332968488727
+
+Valadara
+median perf avg
+48.50198056596941
+
+Sanguinus
+median perf avg
+47.27669437390497
+
+Mildipoo
+median perf avg
+55.26254416875062
+
+Xtina
+median perf avg
+60.33852441294092
+
+Coocoocachu
+median perf avg
+58.981175024525506
+
+Nightlash
+median perf avg
+50.984466800999535
+
+Axetoface
+median perf avg
+46.82034464627589
+
+Eccojam
+median perf avg
+39.450030298020216
+
+Scarab
+median perf avg
+35.632400336924476
+
+Anvindr
+median perf avg
+64.63933437319882
+
+Gargas
+median perf avg
+55.439742400168775
+
+Cyntu
+median perf avg
+52.591127033109004
+
+Neopanda
+median perf avg
+39.20035930513483
+
+Zeddicious
+median perf avg
+60.16124249273995
+
+Astromarus
+median perf avg
+48.17668570555523
+
+Hissy
+median perf avg
+50.81251745463278
+
+Hugsprotect
+median perf avg
+48.86345577213951
+
+Vasherro
+median perf avg
+49.95305647020139
+
+Tjugofyra
+median perf avg
+64.60198745886885
+
+Nitrohunter
+median perf avg
+55.83708723587672
+
+Lickmyaxe
+median perf avg
+52.301748452899474
+
+Sevroko
+median perf avg
+36.242586069913074
+
+Djarin
+median perf avg
+57.21071779005176
+
+Stalrook
+median perf avg
+44.68478560894826
+
+Kaelic
+median perf avg
+39.54603092203346
+
+Bazille
+median perf avg
+41.16037988330439
+
+Chinnook
+median perf avg
+40.183560227162445
+
+Azrend
+median perf avg
+51.25745159968877
+
+Magiosnik
+median perf avg
+56.314287801886316
+
+Neutral
+median perf avg
+37.226161422892254
+
+Senpaiaj
+median perf avg
+50.45330903493656
+
+Mustavend
+median perf avg
+42.541814135689734
+
+M�gica
+median perf avg
+37.18187333692946
+
+Purplefever
+median perf avg
+48.45351757795258
+
+Freezerburn
+median perf avg
+56.49481229954381
+
+Liangzi
+median perf avg
+51.57654302227528
+
+Thorndercat
+median perf avg
+49.87243540841997
+
+Lanstrick
+median perf avg
+45.716485519613045
+
+Sultan
+median perf avg
+40.29344372203976
+
+Mikhial
+median perf avg
+45.077484739617404
+
+Anthonous
+median perf avg
+58.11505075475068
+
+Wishiwasop
+median perf avg
+64.26221204548209
+
+Sneakyrage
+median perf avg
+54.585697308614584
+
+Warrenpiece
+median perf avg
+40.758826559490835
+
+Skrillaz
+median perf avg
+61.62654205430049
+
+Tokenchoke
+median perf avg
+38.91240266772376
+
+Umbo
+median perf avg
+57.70998302034596
+
+Litle
+median perf avg
+56.702634494303794
+
+Divet
+median perf avg
+46.63569548855016
+
+Meydron
+median perf avg
+41.393429965511714
+
+Bigshaqq
+median perf avg
+48.42552579104859
+
+Museifu
+median perf avg
+41.39801946062946
+
+Nacly
+median perf avg
+62.24475774623641
+
+Disappointed
+median perf avg
+46.71578810155436
+
+Worstever
+median perf avg
+50.16991802283928
+
+Fluffybone
+median perf avg
+35.10571740855501
+
+Xelly
+median perf avg
+54.93569922790534
+
+Skogr
+median perf avg
+36.80730404772649
+
+Saladad
+median perf avg
+40.07112526244266
+
+Xzavier
+median perf avg
+64.76366532608989
+
+Nimbear
+median perf avg
+63.52528669729125
+
+Runier
+median perf avg
+54.636535748216595
+
+Rlain
+median perf avg
+61.42162561013395
+
+Suchtrash
+median perf avg
+60.42720051200682
+
+Smokles
+median perf avg
+61.82527635691937
+
+Irohe
+median perf avg
+62.59761838566676
+
+Jebe
+median perf avg
+56.737230965867035
+
+Stealthybuns
+median perf avg
+58.30091549016344
+
+Jondarr
+median perf avg
+45.925137161114854
+
+Intheface
+median perf avg
+39.73404978247747
+
+Swype
+median perf avg
+59.38059529635921
+
+Lasciell
+median perf avg
+50.57022541489463
+
+�zzblaster
+median perf avg
+63.98564120431061
+
+Ximon
+median perf avg
+48.96053719251937
+
+Belod
+median perf avg
+42.55520009430502
+
+Composition
+median perf avg
+61.507841251400734
+
+Caeden
+median perf avg
+55.11001108753733
+
+Smokeykilla
+median perf avg
+49.19704859327854
+
+Ninenothing
+median perf avg
+53.506637083392164
+
+Grummdar
+median perf avg
+36.53028460398416
+
+Arrowsaint
+median perf avg
+43.221987713209
+
+Misclik
+median perf avg
+57.397229655596334
+
+Turbouggo
+median perf avg
+40.09006008935922
+
+Bayok
+median perf avg
+56.23259837249349
+
+Aja
+median perf avg
+58.039605288831595
+
+Pasole
+median perf avg
+40.07145657415394
+
+Izabelle
+median perf avg
+49.57401936065562
+
+Barvisock
+median perf avg
+46.17444965270671
+
+Gunnhild
+median perf avg
+63.50259194315768
+
+Sindoren
+median perf avg
+36.39100448559543
+
+Merra
+median perf avg
+37.14950278186162
+
+Sebas
+median perf avg
+41.71451716698297
+
+Deathissuden
+median perf avg
+55.86489824754016
+
+Cupincha
+median perf avg
+44.8370677219609
+
+Hilan
+median perf avg
+63.734200479048894
+
+Flockinbirds
+median perf avg
+36.62674549510009
+
+Haisui
+median perf avg
+43.591962515619095
+
+Kiro
+median perf avg
+44.530846345338
+
+Lianorea
+median perf avg
+41.62475912698463
+
+Assinova
+median perf avg
+54.772028132520575
+
+Mal
+median perf avg
+54.2432506069774
+
+Megawattpro
+median perf avg
+58.06529711333172
+
+Mastablastr
+median perf avg
+50.645399624131215
+
+Schottkey
+median perf avg
+48.95108239401709
+
+Questorthews
+median perf avg
+64.44194926135147
+
+Chuwen
+median perf avg
+45.43682250344005
+
+Gotyourbike
+median perf avg
+61.746218161458685
+
+Pennyadc
+median perf avg
+47.807185866281635
+
+Shyyanne
+median perf avg
+59.72806656428705
+
+Alphie
+median perf avg
+39.03905055459563
+
+Dotso
+median perf avg
+44.05419399968539
+
+Darkmass
+median perf avg
+35.65020176052373
+
+Inquiry
+median perf avg
+59.17623774252557
+
+Ikeepgrowlon
+median perf avg
+54.87646049754842
+
+Stabbey
+median perf avg
+64.70623599639794
+
+Sisternicci
+median perf avg
+64.49855532191394
+
+Gnomeball
+median perf avg
+40.0602785662114
+
+Aparo
+median perf avg
+51.18048917214272
+
+Steelhed
+median perf avg
+38.50271132729133
+
+Facehurter
+median perf avg
+59.02385674761903
+
+Villeinia
+median perf avg
+49.78885518693387
+
+Mirela
+median perf avg
+41.933621768752836
+
+Wripwrap
+median perf avg
+59.09813581875946
+
+Luvii
+median perf avg
+49.109258406086425
+
+Ilzan
+median perf avg
+42.89086764835349
+
+Frosteedankk
+median perf avg
+63.95079314642139
+
+Orbitz
+median perf avg
+47.06708934931384
+
+Saitosan
+median perf avg
+54.68211345131487
+
+Bakedpotato
+median perf avg
+61.32816311854845
+
+Tarn
+median perf avg
+62.88530018767076
+
+Verthuricca
+median perf avg
+62.89134460963152
+
+�shbringer
+median perf avg
+64.66169529533362
+
+Scytheia
+median perf avg
+50.76529555340461
+
+Nefaas
+median perf avg
+43.63151712934596
+
+Briac
+median perf avg
+60.05864246775824
+
+Everfury
+median perf avg
+37.6722864804905
+
+Daeni
+median perf avg
+64.52101608481674
+
+Malazeenia
+median perf avg
+58.66565057371796
+
+Kotick
+median perf avg
+51.600731013887476
+
+Maxmin
+median perf avg
+48.35061566093141
+
+Sheisskopf
+median perf avg
+62.71339069501098
+
+Jaketherippa
+median perf avg
+59.84497462528736
+
+Xaime
+median perf avg
+49.83924835881291
+
+Dorogon
+median perf avg
+55.375673563497045
+
+Hungrii
+median perf avg
+55.17493884882253
+
+Gneissdude
+median perf avg
+36.75278130549721
+
+Rakutenka
+median perf avg
+57.34034613395015
+
+Emmagene
+median perf avg
+48.06531346178367
+
+Doktyr
+median perf avg
+40.83656763672185
+
+Rohirem
+median perf avg
+51.089103919533024
+
+Littlecon
+median perf avg
+39.10436582387246
+
+Edwiltordy
+median perf avg
+39.203781168438546
+
+Hozanto
+median perf avg
+52.92154399751934
+
+Canklebandit
+median perf avg
+56.96333271040459
+
+Superargh
+median perf avg
+62.53300444325278
+
+Teagan
+median perf avg
+44.9123269390352
+
+Ebonsunz
+median perf avg
+36.26319939253026
+
+Wraal
+median perf avg
+49.61491079053101
+
+Berlybaby
+median perf avg
+39.54949848400159
+
+Tharyn
+median perf avg
+62.39602072534332
+
+Syns
+median perf avg
+46.725845783749676
+
+H�vachant
+median perf avg
+45.12090788534668
+
+Motogratter
+median perf avg
+53.830998280343
+
+Therrook
+median perf avg
+60.98564927051782
+
+Kxh
+median perf avg
+60.780687095611306
+
+Tunguska
+median perf avg
+53.20654690999696
+
+Moonrage
+median perf avg
+44.62195581570202
+
+Veratorr
+median perf avg
+64.7156627637741
+
+Sparkleshine
+median perf avg
+49.819635305330294
+
+Sowid
+median perf avg
+41.159481095195865
+
+Phoque
+median perf avg
+37.44934605083803
+
+Aegisu
+median perf avg
+57.5342957192953
+
+Hochu
+median perf avg
+61.87931425250588
+
+Hartstone
+median perf avg
+45.742590200849186
+
+Sifer
+median perf avg
+62.871693561187826
+
+Arlyneon
+median perf avg
+53.10144556553509
+
+Toefoo
+median perf avg
+62.025587911520084
+
+Ordoo
+median perf avg
+51.62764050742147
+
+Mellodapally
+median perf avg
+37.6101363484572
+
+Tuggernut
+median perf avg
+43.19757472848062
+
+Sealga�r
+median perf avg
+38.42793296683852
+
+Excision
+median perf avg
+37.892872581644
+
+Bigbert
+median perf avg
+59.52608129389244
+
+Berglowe
+median perf avg
+59.956857796058515
+
+Jaialai
+median perf avg
+46.229235159525025
+
+Yuk
+median perf avg
+52.94264999207504
+
+Mustangmissy
+median perf avg
+38.852251132333585
+
+Derosmordots
+median perf avg
+59.37361900308411
+
+Kanjishin
+median perf avg
+64.38116053853796
+
+Pussnboot
+median perf avg
+56.12076045463752
+
+Khargol
+median perf avg
+42.791449255441734
+
+Clawelven
+median perf avg
+59.90644662273704
+
+Iandhades
+median perf avg
+55.297511109106466
+
+Saralynn
+median perf avg
+50.031934225830305
+
+Parsimon
+median perf avg
+62.86764430413967
+
+Miniwing
+median perf avg
+43.30383579506671
+
+Multi
+median perf avg
+58.47612134615461
+
+Teleska
+median perf avg
+56.26537975426719
+
+Stierne
+median perf avg
+39.809090924193946
+
+Travellocity
+median perf avg
+44.238795163507646
+
+Giv
+median perf avg
+50.18993881622318
+
+Lostworld
+median perf avg
+51.25804389574389
+
+Munchymonk
+median perf avg
+37.48120226180125
+
+Lera
+median perf avg
+52.96010490906861
+
+Napoleonmayo
+median perf avg
+58.637094092500796
+
+Bigbadb
+median perf avg
+41.09372487559989
+
+Sartorius
+median perf avg
+49.99040980675719
+
+Rizzata
+median perf avg
+52.40280442393597
+
+Chugmug
+median perf avg
+62.412157076749985
+
+Splendiferus
+median perf avg
+61.0180485046914
+
+Zelhan
+median perf avg
+56.50363171414123
+
+Vaporogue
+median perf avg
+61.95776437853952
+
+Scottishdave
+median perf avg
+50.96565329801693
+
+Byi
+median perf avg
+63.849350916402486
+
+Kalmha
+median perf avg
+37.888280657771574
+
+Abisha
+median perf avg
+55.143930188407445
+
+Stickyfanger
+median perf avg
+60.75995425607728
+
+Armaita
+median perf avg
+63.67577342261147
+
+Pewpy
+median perf avg
+40.15104599337649
+
+Goldlining
+median perf avg
+39.395025754187024
+
+Shalandoir
+median perf avg
+46.21047408717397
+
+Loaf
+median perf avg
+64.46075201162888
+
+Uqailiq
+median perf avg
+44.236383623978
+
+Illtankthat
+median perf avg
+63.88352905543684
+
+Altimma
+median perf avg
+56.01086741700136
+
+Ravenmove
+median perf avg
+39.32410762800091
+
+Eryana
+median perf avg
+43.78428698199506
+
+Applebees
+median perf avg
+52.270612776395915
+
+Demnock
+median perf avg
+63.366491760261184
+
+Taleath
+median perf avg
+38.75617299539135
+
+Silarea
+median perf avg
+64.55338731993987
+
+Shards
+median perf avg
+63.807006936424045
+
+Elyssia
+median perf avg
+52.74061416483613
+
+Midgetmingle
+median perf avg
+48.77743690392991
+
+Galoren
+median perf avg
+35.20147929979208
+
+Eran
+median perf avg
+39.697707601399685
+
+Regera
+median perf avg
+36.14164877157684
+
+Viognier
+median perf avg
+36.52026849165084
+
+Scaramanga
+median perf avg
+48.71936329069816
+
+Table
+median perf avg
+57.72291900276892
+
+Tobiasf�nke
+median perf avg
+64.29518599656687
+
+Dispholidus
+median perf avg
+44.35308719531223
+
+Fenirus
+median perf avg
+43.496580609020214
+
+Pazrea
+median perf avg
+59.58083170499956
+
+Krethus
+median perf avg
+48.95380674430294
+
+Helt
+median perf avg
+61.9593081521947
+
+Enu
+median perf avg
+64.95049227554144
+
+Lethelen
+median perf avg
+64.7771727207337
+
+Carrotbasket
+median perf avg
+53.4696905439123
+
+Veganpanda
+median perf avg
+52.36195261824522
+
+Warmsnack
+median perf avg
+36.50325449419757
+
+Fynly
+median perf avg
+44.56488829994774
+
+Molok
+median perf avg
+50.824704810009955
+
+Weemonster
+median perf avg
+37.79166632222211
+
+Vyris
+median perf avg
+53.19507432932566
+
+Erond
+median perf avg
+56.65510729401037
+
+Abzerian
+median perf avg
+62.27425526799859
+
+Waycaps
+median perf avg
+48.96598586768916
+
+Dreis
+median perf avg
+50.13229525751302
+
+Maulbatross
+median perf avg
+62.98847042103005
+
+Iphone
+median perf avg
+54.79926360495026
+
+Lenahh
+median perf avg
+35.40528911545248
+
+Pearlite
+median perf avg
+55.72341778155569
+
+Flashystorm
+median perf avg
+47.83059567483024
+
+Vohnski
+median perf avg
+49.05479879265642
+
+Gwyth
+median perf avg
+61.71244307066325
+
+Sp�rk
+median perf avg
+44.05461141611898
+
+Stakx
+median perf avg
+63.18071867472555
+
+Jarnsaxa
+median perf avg
+63.82048573751345
+
+Viangeon
+median perf avg
+59.92487548070073
+
+Shmagles
+median perf avg
+63.1436658359227
+
+Yiaki
+median perf avg
+54.46061535616204
+
+Celivia
+median perf avg
+47.202522640153546
+
+Machou
+median perf avg
+60.27244749981238
+
+Tkipp
+median perf avg
+57.30636063231749
+
+Dinind
+median perf avg
+42.443046686226474
+
+Dazdingo
+median perf avg
+59.20155728989225
+
+Ryanxse
+median perf avg
+62.9442790429614
+
+Sharkyy
+median perf avg
+40.42576806402027
+
+Manapots
+median perf avg
+44.06688910540097
+
+Lyonz
+median perf avg
+42.944187150891864
+
+Bnr
+median perf avg
+41.584586355274446
+
+Gnkd
+median perf avg
+49.47780047433625
+
+Pvetank
+median perf avg
+46.02406991604703
+
+Jedert
+median perf avg
+43.65578027509149
+
+Pawmccartney
+median perf avg
+58.92456970786543
+
+Icynipps
+median perf avg
+63.924074008298724
+
+Medreus
+median perf avg
+61.011113513105975
+
+Drjest
+median perf avg
+56.94739751779888
+
+Nemsyn
+median perf avg
+64.41643808820528
+
+Additionally
+median perf avg
+39.93771975972584
+
+Demonizy
+median perf avg
+56.979236220226284
+
+Embersyn
+median perf avg
+53.0297305184608
+
+Cylen
+median perf avg
+58.9565997537534
+
+Dilewian
+median perf avg
+40.10796087187319
+
+Whiteklaws
+median perf avg
+40.34849488256596
+
+Magnify
+median perf avg
+57.972888429308384
+
+Dustoffmk
+median perf avg
+50.31422038161204
+
+Anastsis
+median perf avg
+51.5379785263996
+
+Rooni
+median perf avg
+39.60857576018825
+
+Rhastaman
+median perf avg
+43.44635821803161
+
+Southpavv
+median perf avg
+56.46961812838946
+
+Anthiel
+median perf avg
+48.30103074473845
+
+Steelblue
+median perf avg
+40.16598816976039
+
+Nekorogue
+median perf avg
+53.99671272072834
+
+Coldridin
+median perf avg
+44.74627555056712
+
+Grunhilda
+median perf avg
+49.36556643421613
+
+Tender
+median perf avg
+47.888766072771894
+
+Doogeey
+median perf avg
+51.692663860277186
+
+Loknido
+median perf avg
+43.37455686412667
+
+Rhene
+median perf avg
+44.4110274683777
+
+Intangible
+median perf avg
+61.04786259898243
+
+Sybrina
+median perf avg
+59.432114467663666
+
+Minordomo
+median perf avg
+55.39740803958894
+
+Jackyl
+median perf avg
+55.95083214566649
+
+Kathh
+median perf avg
+54.9787783062159
+
+Kirbzz
+median perf avg
+51.782196682735474
+
+Lilhermione
+median perf avg
+56.06850100682024
+
+Alvonzo
+median perf avg
+55.46894509332547
+
+Odanobunaga
+median perf avg
+55.573504410714996
+
+Tjshoots
+median perf avg
+55.18190095403108
+
+Seymorque
+median perf avg
+40.99686616473482
+
+Finka
+median perf avg
+58.02996942579139
+
+Mithias
+median perf avg
+46.84049229665068
+
+Oomosaure
+median perf avg
+63.74065917392477
+
+Judz
+median perf avg
+43.290766340129395
+
+Ironmike
+median perf avg
+55.997774303749345
+
+Hatredcopter
+median perf avg
+54.17306315869572
+
+Metaabuser
+median perf avg
+43.13378976952651
+
+Aradie
+median perf avg
+47.57315390869755
+
+Joefas
+median perf avg
+54.07135814128979
+
+Sayvaho
+median perf avg
+40.36705294893759
+
+Samx
+median perf avg
+44.13926576300018
+
+Pewpewcrit
+median perf avg
+46.01909716624514
+
+Aeleanor
+median perf avg
+47.86061722493221
+
+Lilbooties
+median perf avg
+57.56048216319378
+
+Xtwentyfour
+median perf avg
+56.37693091417842
+
+Chainblade
+median perf avg
+60.63756765164616
+
+Cobb
+median perf avg
+62.768256179727594
+
+Abri
+median perf avg
+50.70216857343046
+
+Infiltrator
+median perf avg
+62.056185538064106
+
+Bighornboy
+median perf avg
+54.14082815696102
+
+Vanq
+median perf avg
+53.76856073968182
+
+Boote
+median perf avg
+61.96502398234401
+
+Ernwo
+median perf avg
+49.190773583352815
+
